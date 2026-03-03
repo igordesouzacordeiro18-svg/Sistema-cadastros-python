@@ -12,13 +12,4 @@ A simple user registration system built in Python.
 - Lists
 - Loops
 - Conditional statements
-## Features
-- Create users
-- List users
-- Delete users
 
-## Technologies
-- Python 3
-- Lists
-- Loops
-- Conditional statements
