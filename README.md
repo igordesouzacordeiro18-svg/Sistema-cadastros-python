@@ -1,5 +1,5 @@
 #Python-crud-system
-A simple user registration system built in Python.
+
 
 ## Features
 - Create users
