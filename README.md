@@ -1,15 +1,17 @@
-#Python-crud-system
+# 🐍 Python CRUD System
 
-A simple user registration system built in Python.
+Sistema de cadastro via terminal desenvolvido em Python com foco em lógica de programação e organização funcional.
 
-## Features
-- Create users
-- List users
-- Delete users
+## 🔥 Diferenciais Técnicos
+* **Organização:** Código modularizado em funções (Def).
+* **Regras de Negócio:** Validação de unicidade para e-mails e CPFs (impede duplicados).
+* **Manipulação de Dados:** Uso de dicionários dentro de listas para estruturação clara.
+* **Tratamento de Strings:** Normalização de entradas com `.strip()` e `.lower()`.
 
-## Technologies
-- Python 3
-- Lists
-- Loops
-- Conditional statements
+## 🛠️ Tecnologias
+* Python 3
+* Estruturas de Dados (Lists/Dicts)
+* Lógica de Repetição e Condicionais
+
+---
 
