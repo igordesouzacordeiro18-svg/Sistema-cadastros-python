@@ -1,8 +1,8 @@
-# 🐍 Python CRUD System
+#  Python CRUD System
 
 Sistema de cadastro via terminal desenvolvido em Python com foco em lógica de programação e organização funcional.
 
-## 🔥 Diferenciais Técnicos
+##  Diferenciais Técnicos
 * **Organização:** Código modularizado em funções (Def).
 * **Regras de Negócio:** Validação de unicidade para e-mails e CPFs (impede duplicados).
 * **Manipulação de Dados:** Uso de dicionários dentro de listas para estruturação clara.
